@@ -3,4 +3,4 @@ targetCustomizations:
 - name: dev
   clusterSelector:
     matchLabels:
-      env: prod
+      env: dev
